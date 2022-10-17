@@ -2,7 +2,7 @@
 -  I am a physiotherapist, health coach and art lover 
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on projects and create beautiful visualizations
+- 💞️ I’m looking to learn, collaborate and create projects with beautiful visualizations
 - 📫 Feel free to reach me on akinola.bamise@gmail.com
 
 <!---
